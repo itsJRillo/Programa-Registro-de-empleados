@@ -5,13 +5,13 @@ registros_salida = {}
 
 dict_empleados = {
     1:{"name":"Juan", "NIF": "4987456Z", "clave":1602, "alta":0, "baja":0, "reporte":0}, 
-    2:{"name":"Ismael", "NIF":"51286243S", "clave":2806, "alta":0, "baja":0, "reporte":0},  
-    3:{"name":"Ainhoa", "NIF":"4689932R", "clave":4206 , "alta":0, "baja":0, "reporte":0}, 
-    4:{"name":"Ysabel", "NIF":"4398431Z", "clave":4213 , "alta":0, "baja":0, "reporte":0}}
+    2:{"name":"Gaizka", "NIF":"51286043S", "clave":1678, "alta":0, "baja":0, "reporte":0},  
+    3:{"name":"Bianca", "NIF":"4689932R", "clave":4206 , "alta":0, "baja":0, "reporte":0}, 
+    4:{"name":"María", "NIF":"4398431Z", "clave":4213 , "alta":0, "baja":0, "reporte":0}}
 
 dict_claves = {
     1602:1, 
-    2806:2, 
+    1678:2, 
     3478:3,
     4206:4,
     4213:5}
